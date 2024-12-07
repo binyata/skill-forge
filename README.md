@@ -14,3 +14,7 @@ node -v # should print `v22.12.0`
 
 # verifies the right npm version is in the environment
 npm -v # should print `10.9.0`
+
+## Extra Info that isn't categorized yet.
+### For Cross-Platform Development (Recommended): Use input to normalize line endings in the repository to LF, regardless of the OS:
+git config --global core.autocrlf input
