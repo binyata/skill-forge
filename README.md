@@ -18,3 +18,6 @@ npm -v # should print `10.9.0`
 ## Extra Info that isn't categorized yet.
 ### For Cross-Platform Development (Recommended): Use input to normalize line endings in the repository to LF, regardless of the OS:
 git config --global core.autocrlf input
+
+### https://pnpm.io/
+Fast, disk space efficient package manager - Faster than npm?
