@@ -21,3 +21,6 @@ git config --global core.autocrlf input
 
 ### https://pnpm.io/
 Fast, disk space efficient package manager - Faster than npm?
+
+### NextJs Tutorial Status:
+Chapter 4: https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages
