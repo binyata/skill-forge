@@ -24,3 +24,6 @@ Fast, disk space efficient package manager - Faster than npm?
 
 ### NextJs Tutorial Status:
 Chapter 4: https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages
+
+### To install an application with vite:
+npm init vite@latest (Then follow prompts)
